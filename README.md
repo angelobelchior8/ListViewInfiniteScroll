@@ -1,4 +1,4 @@
-[![ScreenShot](http://img.youtube.com/vi/fPxWd5POn4E/0.jpg)](http:///www.youtube.com/embed/fPxWd5POn4E)
+[![ScreenShot](http://img.youtube.com/vi/fPxWd5POn4E/0.jpg)](http:///www.youtube.com/watch?v=fPxWd5POn4E)
 
 Crie uma ListView com InfiniteScroll usando Xamarin.Forms.
 
