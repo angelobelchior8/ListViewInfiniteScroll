@@ -2,6 +2,8 @@
 
 Crie uma ListView com InfiniteScroll usando Xamarin.Forms.
 
+Para ficar por dentro das novidades assine meu canal no Youtube: http://www.youtube.com/angelobelchior
+
 Referências
 
 - **Xamarin.Forms**: http://xamarin.com/forms
